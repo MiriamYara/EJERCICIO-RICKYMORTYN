@@ -83,3 +83,5 @@ fetch('https://rickandmortyapi.com/api/character')
         document.getElementById('personajes').innerHTML = elementos;
     })
 
+
+    
